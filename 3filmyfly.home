@@ -325,29 +325,26 @@ z-index: 0;
         <p style="text-align:center; font-size:12px; color:#ccc;"><div>
     <script type="text/javascript">
         aclib.runBanner({
-            zoneId: '11180522',
+            zoneId: '11183318',
         });
     </script>
 </div>
 </p>
     </div>
 
+
     <div class="ad-floating ad-right">
         <p style="text-align:center; font-size:12px; color:#ccc;"><div>
     <script type="text/javascript">
         aclib.runBanner({
-            zoneId: '11180522',
+            zoneId: '11183318',
         });
     </script>
 </div>
 </p>
     </div>
     
-<script type="text/javascript">
-    aclib.runAutoTag({
-        zoneId: 'xtmpiw1xr8',
-    });
-</script>
+
 
 
 
@@ -377,9 +374,16 @@ z-index: 0;
             const websites = [
                 //{ name: "", url: "", category: "" },
                 
-                { name: "FilmyFly", url: "https://bestmoviessites.github.io/filmyfly", category: "Bollywood" },
+                { name: "FilmyFly", url: "https://3filmyfly.com/bollywood/filmyfly/", category: "Bollywood" },
+                { name: "FilmyFly5", url: "https://3filmyfly.com/bollywood/filmyfly5/", category: "Bollywood" },
+                { name: "FilmyFly6", url: "https://3filmyfly.com/bollywood/filmyfly6/", category: "Bollywood" },
+                { name: "FilmyFly3", url: "https://3filmyfly.com/bollywood/filmyfly3/", category: "Bollywood" },
+                { name: "FilmyFly2", url: "https://3filmyfly.com/bollywood/filmyfly2/", category: "Bollywood" },
+                { name: "FilmyFly4", url: "https://3filmyfly.com/bollywood/filmyfly4/", category: "Bollywood" },
+                { name: "FilmyFly1", url: "https://3filmyfly.com/bollywood/filmyfly1/", category: "Bollywood" },
+                
                 { name: "FilmyZilla", url: "https://bestmoviessites.github.io/filmyzilla", category: "Bollywood" },
-                { name: "DotMovies", url: "https://bestmoviessites.github.io/dotmovies", category: "Bollywood" },
+                { name: "DotMovies", url: "https://3filmyfly.com/dotmovies/", category: "Bollywood" },
                 { name: "HDMovie2", url: "https://bestmoviessites.github.io/hdmovie2", category: "Bollywood" },
                 { name: "HDMovieHub", url: "https://bestmoviessites.github.io/hdmoviehub", category: "Bollywood" },
                 
