@@ -382,8 +382,9 @@ z-index: 0;
                 { name: "FilmyFly4", url: "https://3filmyfly.com/bollywood/filmyfly4/", category: "Bollywood" },
                 { name: "FilmyFly1", url: "https://3filmyfly.com/bollywood/filmyfly1/", category: "Bollywood" },
                 
+                { name: "DotMovies", url: "https://3filmyfly.com/bollywood/dotmovies/", category: "Bollywood" },
+                
                 { name: "FilmyZilla", url: "https://bestmoviessites.github.io/filmyzilla", category: "Bollywood" },
-                { name: "DotMovies", url: "https://3filmyfly.com/dotmovies/", category: "Bollywood" },
                 { name: "HDMovie2", url: "https://bestmoviessites.github.io/hdmovie2", category: "Bollywood" },
                 { name: "HDMovieHub", url: "https://bestmoviessites.github.io/hdmoviehub", category: "Bollywood" },
                 
